@@ -20,9 +20,29 @@ from nltk.probability import FreqDist
 # Definimos un texto en español que queramos analizar
 
 texto = """
-Soy Luz Astrid Ortiz Castaño, vivo en la ciudad de Manizales. Me gusta ver series de epoca y leer. 
-Mi tiempo libre lo dedico a mi hijo Rafael. Como profesional soy diseñadora visual y me gusta aprender
+Luz Astrid Ortiz Castaño, vive en la ciudad de Manizales. Le gusta ver series de epoca y leer. 
+En el tiempo libre se dedica a su hijo Rafael. Como profesional es diseñadora visual y le gusta aprender
 el uso de la tecnología y la inteligencia artificial.
+
+José Ramírez, ING de sistemas del Quindío 
+Especialista en gerencia de sistemas informáticos 
+Teniene una hermosa familia una hija de 6 años.
+
+Tatiana Carrillo, estudiante de marketing digital, es de Bogotá y actualmente vive en Villamaría 
+con su esposo y su bebé de 2 años.
+
+
+Juan Pablo Espinosa, es de Pereira y es Ingeniero de Sistemas de profesión. 
+Actualmente trabaja en Claro, donde he tenido el privilegio de desempeñarse durante 18 años, 
+creciendo tanto profesional como personalmente.
+
+Es padre orgulloso de una hermosa hija llamada Gabriela, y comparte su hogar con ella, su madre,
+ tres gatos y un perro. Aunque mi familia es pequeña, es su mayor tesoro, y cada día da gracias a Dios por tenerlos a su lado.
+En los tiempos libres disfruta de actividades que le permitan desconectarse y recargar energías:
+ ver series y anime, jugar videojuegos, ir al cine y escuchar música. 
+ Es un apasionado por su carrera y disfruta aprender cosas nuevas constantemente,
+  lo que me motiva a seguir creciendo y enfrentando nuevos retos.
+
 """
 
 # Tokenización: Convertimos el texto en una lista de palabras individuales
