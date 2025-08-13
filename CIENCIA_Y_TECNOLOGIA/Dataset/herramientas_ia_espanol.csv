@@ -1,0 +1,31 @@
+id,title,year,category,rating,overview
+1,SciSpace,2023,Data/MLops,4.5,"Plataforma de IA generativa para investigación académica que permite buscar, resumir y chatear con PDFs de artículos científicos en español, optimizando la revisión de literatura."
+2,Microsoft Copilot,2023,Productivity/Assistants,4.3,"Asistente IA integrado en Windows y Microsoft 365 que genera contenido, traduce y automatiza tareas; tiene interfaz disponible en español y amplia adopción empresarial."
+3,Alia,2025,GenAI‑Text,4.2,"Modelo fundacional de IA en español (castellano y cooficiales) lanzado por el Gobierno de España, público y abierto, ideal como base para chatbots y procesamiento lingüístico."
+4,Freepik,2025,GenAI‑Image,4.0,"Plataforma de creación de contenidos que genera, perfecciona y optimiza imágenes con IA, ideal para creativos, con interfaz y documentación en español."
+5,Mistral Le Chat,2025,Agents/Automation,4.1,"Asistente IA móvil con capacidad de generar imágenes, buscar en web y escribir código; disponible en apps iOS/Android y con interfaz en español."
+6,Duolingo Max,2025,GenAI‑Text,4.0,"Versión premium que usa GPT‑4 para simulaciones conversacionales inmersivas en español, corrige errores y adapta el aprendizaje de idioma de forma personalizada."
+7,Otter.ai,2025,Productivity/Assistants,3.9,"Tool de transcripción con soporte en español y múltiples variantes, ideal para reuniones o entrevistas, con interfaz clara y adopción en equipos diversos."
+8,Guru,2025,Productivity/Assistants,4.2,"Plataforma de conocimiento para equipos que ofrece respuestas y sugerencias impulsadas por IA, con soporte en español y enfoque colaborativo."
+9,ChatGPT Plus,2025,GenAI‑Text,4.6,"Versión de pago de ChatGPT con GPT‑4 que genera respuestas fiables en español, útil para escritura, educación y soporte en múltiples contextos."
+10,Spotify Livi,2024,GenAI‑Audio,3.8,"DJ IA en español que crea listas personalizadas y narra usando voz natural mexicana, pensado para Premium y optimizado para diálogos musicales."
+11,DeepSeek Español,2023,GenAI-Text,4.1,"Chatbot de código abierto en español, gratuito y sin registro; ideal para redacción, traducción y educación con alta accesibilidad y rendimiento."
+12,OpenAssistant,2023,Productivity/Assistants,4.0,"Asistente conversacional open-source que comprende tareas, interactúa con sistemas externos y opera en múltiples idiomas, incluido el español."
+13,Microsoft Editor,2016,Productivity/Assistants,3.9,Corrector gramatical y de estilo con IA integrado en Office y navegador; compatibilidad con español y opción gratuita limitada.
+14,Synthesia,2025,GenAI-Video,4.4,"Creador de videos con avatares IA multilingüe, más de 140 idiomas, interfaz en español ideal para formación, marketing y contenidos corporativos."
+15,Murf.ai,2025,GenAI-Audio,4.2,"Plataforma de voz sintética natural que crea narraciones en español de calidad profesional, perfecta para presentaciones y e‑learning."
+16,Rewind.ai,2025,Search/RAG,4.0,Buscador inteligente con IA que ofrece historial conversacional mejorado; interfaz compatible con español y búsquedas conversacionales.
+17,BigML,,Data/MLops,4.1,"Plataforma de aprendizaje automático visual con fuerte presencia en España, accesible en español; facilita creación de modelos predictivos sin código."
+18,Langua,2025,GenAI-Text,4.3,"App de práctica conversacional en español con feedback inmediato, role‑plays variados, transcripciones interactivas y aprendizaje con flashcards."
+19,Jasper AI,2025,GenAI-Text,4.2,"Generador de contenido SEO en español, con personalización regional y plantillas; ideal para marketing y comunicaciones."
+20,Notion AI,2025,Productivity/Assistants,4.1,"Asistente IA dentro de Notion que redacta, resume y organiza contenido en español; útil para gestionar proyectos y notas."
+21,DeepL Translator,,GenAI‑Text,4.3,"Traductor IA preciso entre español e inglés, con versión gratuita, amplia adopción y alta calidad lingüística."
+22,Manus,2025,Agents/Automation,4.0,"Agente IA multifuncional que genera presentaciones, websites, imágenes y código; experiencia fluida en español."
+23,ChatGPT (gratis),2025,GenAI-Text,4.5,"Versión gratuita de ChatGPT para interacción en español: escritura, resumido y traducción, con alta flexibilidad."
+24,Gemini (Google),2025,GenAI-Text,4.2,Modelo avanzado de Google con excelente contexto y resumen de documentos; admite español y audio-resumen estilo podcast.
+25,Fathom,2025,Productivity/Assistants,4.0,"Tomador de notas con IA para reuniones en Zoom/Teams, resumen estructurado; funciona con español y plan gratuito disponible."
+26,Nyota,2025,Productivity/Assistants,3.9,"Asistente de reuniones que graba, resume y actualiza CRM automáticamente; soporte para español y prueba gratuita."
+27,Canva Magic Studio,2025,GenAI-Image,4.3,"Herramienta de diseño gráfico con generación de imagen IA, interfaz en español y plantillas creativas para marketing visual."
+28,ElevenLabs,2025,GenAI-Audio,4.4,"Generador de voz realista en español, ideal para audiolibros, locuciones y contenidos multimedia."
+29,NotebookLM (Google),2025,Agents/Automation,4.1,"Asistente de investigación que organiza notas, responde preguntas y resume información; disponible en español."
+30,Surfer SEO,2025,Analytics/BI,4.0,Herramienta de optimización SEO con generación de contenido en español basada en datos de búsqueda y algoritmos IA.
