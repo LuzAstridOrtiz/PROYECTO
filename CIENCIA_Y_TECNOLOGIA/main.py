@@ -88,7 +88,7 @@ def chatbot(query: str):
     # Si encontramos películas, enviamos la lista; si no, mostramos un mensaje de que no se encontraron coincidencias
     
     return JSONResponse (content={
-        "respuesta": "Aquí tienes algunas películas relacionadas." if results else "No encontré películas en esa categoría.",
+        "respuesta": "Aquí tienes algunas IA relacionadas." if results else "No encontré IA en esa categoría.",
         "películas": results
     })
     
